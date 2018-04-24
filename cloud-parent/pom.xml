@@ -9,20 +9,13 @@
 	<artifactId>cloud-parent</artifactId>
 	<packaging>pom</packaging>
 
-
-
-
-
 	<properties>
 		<jdk.version>1.8</jdk.version>
 	</properties>
 
-
 	<dependencyManagement>
 		<dependencies>
-			
 			<!-- leopard-lang -->
-
 			<dependency>
 				<groupId>io.leopard</groupId>
 				<artifactId>leopard-json</artifactId>
@@ -288,7 +281,7 @@
 			</snapshots>
 		</repository>
 	</repositories>
-	
+
 	<distributionManagement>
 		<snapshotRepository>
 			<id>sonatype-nexus-snapshots</id>

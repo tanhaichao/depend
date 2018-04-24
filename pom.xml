@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.leopard.depend</groupId>
 	<artifactId>depend</artifactId>
-	<version>0.9.12-SNAPSHOT</version>
+	<version>0.9.12</version>
 	<packaging>pom</packaging>
 
 	<name>Depend</name>
@@ -31,9 +31,9 @@
 
 
 	<scm>
-		<url>https://github.com/tanhaichao/depend</url>
-		<connection>scm:svn:https://github.com/tanhaichao/depend/trunk</connection>
-		<developerConnection>scm:svn:https://github.com/tanhaichao/depend/trunk</developerConnection>
+		<url>https://github.com/tanhaichao/depend/tags/depend-0.9.12</url>
+		<connection>scm:svn:https://github.com/tanhaichao/depend/tags/depend-0.9.12</connection>
+		<developerConnection>scm:svn:https://github.com/tanhaichao/depend/tags/depend-0.9.12</developerConnection>
 	</scm>
 
 	<developers>

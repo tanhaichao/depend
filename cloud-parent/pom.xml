@@ -15,7 +15,6 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<leopard.version>0.0.2-SNAPSHOT</leopard.version>
 		<leopard-data.version>0.0.4-SNAPSHOT</leopard-data.version>
 		<topnb.version>0.0.3-SNAPSHOT</topnb.version>
 		<leopard-lang.version>0.0.4-SNAPSHOT</leopard-lang.version>

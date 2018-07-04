@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>io.leopard.depend</groupId>
 		<artifactId>depend</artifactId>
-		<version>0.9.14</version>
+		<version>0.9.15-SNAPSHOT</version>
 	</parent>
 	<groupId>io.leopard</groupId>
 	<artifactId>leopard-parent</artifactId>
